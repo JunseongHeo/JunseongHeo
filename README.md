@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:79DAE8,100:2155CD&height=200&section=header&text=welcome!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:79DAE8,100:2155CD&height=200&section=header&text=welcome%20to%20Junseong's%20GitHub&fontSize=50)
 
 ### Hi there 👋
 

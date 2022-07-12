@@ -11,11 +11,9 @@ SKill
 Studying
 
 
-<a href="https://www.java.com/en/" target="_blank">
 
-![Java](https://img.shields.io/badge/java-1E8CBE.svg?style=for-the-badge&logo=java&logoColor=white)
+[![Java](https://img.shields.io/badge/java-1E8CBE.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 
-</a>
 
 
 

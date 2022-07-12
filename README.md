@@ -2,14 +2,14 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:79DAE8,100:2155CD&height=200&section=header&text=welcome%20to%20Junseong's%20GitHub&fontSize=50)
 
-### 😃 introduce
+## 😃 introduce
   
 안녕하세요! 백엔드 개발 공부중인 신입 개발자 허준성입니다.  
 호기심과 열정을 가지고 배우며 성장중입니다!  
 
 <br>
   
-### 🛠️ Skill
+## 🛠️ Skill
 
 [![Java](https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)](https://spring.io/projects/spring-boot)
@@ -30,7 +30,7 @@
 
 <br>
   
-### 📊 Stats
+## 📊 Stats
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunseongHeo&show_icons=true&theme=tokyonight)
 
